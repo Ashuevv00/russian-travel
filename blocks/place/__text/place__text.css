@@ -1,0 +1,10 @@
+.place__text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: #ffffff;
+  grid-area: text;
+  margin: 0 auto;
+  max-width: 484px;
+}
