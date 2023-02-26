@@ -8,3 +8,17 @@
   margin: 32px auto 64px;
   max-width: 640px;
 }
+
+@media screen and (max-width: 767px) {
+  .lead__subtitle {
+    font-size: calc(16px + 14 * ((100vw - 320px) / (768 - 320)));
+    line-height: calc(125% - ((100vw - 320px) / (768 - 320)));
+    margin: 16px auto 40px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .lead__subtitle {
+    max-width: 600px;
+  }
+}
