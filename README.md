@@ -18,7 +18,7 @@
 - Grid-Layout
 - Z-Index
 
-Ссылка на проект:
+Ссылка на проект: "https://github.com/Ashuevv00/russian-travel"
 
 **Figma**
 
